@@ -1,4 +1,5 @@
 Setup Instructions
+
 Create a folder in your Desktop or any other designated location on your machine; you can name it git-github-and-terminal
 Initialize a gitrepo inside that folder with the command git init
 Create a repository on github.com- Your Github Enterprise Account
